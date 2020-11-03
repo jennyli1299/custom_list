@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lect7_CustomListView.iml" filepath="$PROJECT_DIR$/.idea/modules/Lect7_CustomListView.iml" group="Lect7_CustomListView" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Lect7_CustomListView/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/custom_list.iml" filepath="$PROJECT_DIR$/.idea/modules/custom_list.iml" group="custom_list" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/custom_list-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/custom_list-app.iml" group="custom_list/app" />
     </modules>
   </component>
 </project>
